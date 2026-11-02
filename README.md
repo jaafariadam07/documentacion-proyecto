@@ -21,3 +21,7 @@ Nada por aquí
 ## 7. Los diccionarios de datos
 
 No hagas nada por aquí
+
+## 8. Diagrama de flujo
+
+![Diagrama de flujo](Diagrama_de_flujo_Tarjeta_AdamJaafari.png)
